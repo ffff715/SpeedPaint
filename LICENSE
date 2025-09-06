@@ -1,24 +1,57 @@
-This is free and unencumbered software released into the public domain.
+Licencia L30 (Licencia de Transformación Modular 30)
+Versión 1.0 – 2025
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+1. Obra Original
+La obra licenciada bajo la L30 (Licencia de Transformación Modular 30) se refiere a cualquier contenido visual, texto, tipografía, diseño o cualquier obra creativa, que esté publicada y distribuida bajo esta licencia.
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
+2. Regla Fundamental – Regla del 30%
+Cualquier persona que modifique esta obra original en un aproximadamente 30% o más, en términos visuales, estructurales, funcionales o de cualquier tipo que implique una transformación clara de la obra, podrá:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+1. Considerar la nueva obra como independiente.
+2. Aplicar cualquier licencia que desee para la obra modificada, incluyendo licencias comerciales, restrictivas o libres.
+3. No se requerirá atribución al autor original, pero se recomienda como cortesía.
 
-For more information, please refer to <https://unlicense.org>
+Importante: En todo caso, si una obra es modificada en un 30% o más, esa transformación no está sujeta a la licencia original, pero debe seguir siempre la misma Regla del 30% para cualquier futuro derivado.
+
+3. Modificación Leve – Menos del 30%
+Si la obra modificada es inferior a un 30% de transformación:
+
+1. El autor original puede decidir si se permite uso comercial o no.
+2. Se puede aplicar cualquier licencia adicional sobre la obra, siempre y cuando no anule la posibilidad de modificación futura basada en la Regla del 30%.
+3. Atribución al autor original es requerida si la obra es publicada o distribuida.
+
+4. Licencia de Derivados y Restricciones
+- Obras derivadas de cualquier versión modificada deberán aplicar la misma regla del 30%.
+- No se puede restringir la modificación si se supera el umbral del 30% y la obra derivada se considera independiente.
+- Si se elige aplicar restricciones a una derivación, no podrán aplicarse a modificaciones superiores al 30% realizadas por otros usuarios.
+
+5. Derechos del Autor
+El autor original mantiene todos los derechos no otorgados explícitamente bajo esta licencia, incluyendo derechos de autor y la posibilidad de revocar o modificar la licencia en futuras versiones.
+
+6. Cálculo del 30% de Modificación
+La transformación de la obra original se considera significativa cuando:
+
+1. Se modifican al menos un 30% de los elementos visuales, estructuras o componentes clave de la obra (ej. caracteres en una tipografía, formas, proporciones, estilo).
+2. La modificación debe ser sustancial y notoria para un observador razonable, y se puede determinar por un análisis de buena fe.
+
+En caso de disputa sobre el porcentaje exacto, se recomienda utilizar herramientas automáticas de comparación o una evaluación imparcial de un tercero.
+
+7. Atribución
+A menos que se indique lo contrario, el autor original no está obligado a exigir atribución, aunque se recomienda como práctica ética. Sin embargo, la atribución es obligatoria si la obra modificada es menor al 30%.
+
+8. Sin Garantías
+Esta obra se proporciona "tal cual" y el autor original no ofrece ninguna garantía expresa o implícita sobre el uso de la obra. El autor no es responsable de los daños, pérdidas o reclamaciones que puedan surgir por el uso o la modificación de la obra bajo esta licencia.
+
+9. Aplicación Continua
+Cada versión de una obra derivada debe aplicarse a esta misma regla de transformación, es decir:
+
+- Si una persona modifica una obra derivada en un 30% o más, la nueva versión se considera independiente y podrá ser relicenciada bajo cualquier licencia.
+- La Regla del 30% no puede ser eliminada por ninguna licencia que se aplique a las versiones derivadas.
+
+10. Aceptación
+Al usar, modificar, distribuir o crear obras derivadas de una obra licenciada bajo L30, se acepta cumplir con los términos de esta licencia.
+
+Autor Original: Luxyart
+Fecha de Creación: 2025
+Sitio Oficial: No disponible
+"""
